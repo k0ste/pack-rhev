@@ -1,0 +1,24 @@
+{
+    "name": "rhev",
+    "types": ["pack"],
+    "version": "1.0",
+    "homepage": "https://github.com/k0ste/pack-rhev",
+    "author": "Konstantin Shalygin",
+    "description": "Red Hat Enterprise Virtualization (RHEV) and oVirt checks",
+    "contributors": [
+        {
+            "name": "Konstantin Shalygin",
+            "email": "kostya@opentech.ru"
+        }
+    ],
+    "repository": "https://github.com/k0ste/pack-rhev",
+    "keywords": [
+        "pack",
+        "rhev",
+        "ovirt"
+    ],
+    "dependencies": {
+        "shinken": ">=1.4"
+    },
+    "license": "AGPL"
+}
