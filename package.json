@@ -1,7 +1,7 @@
 {
     "name": "rhev",
     "types": ["pack"],
-    "version": "1.4",
+    "version": "1.5",
     "homepage": "https://github.com/k0ste/pack-rhev",
     "author": "Konstantin Shalygin",
     "description": "Red Hat Enterprise Virtualization (RHEV) and oVirt checks",
